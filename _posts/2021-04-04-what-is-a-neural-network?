@@ -1,0 +1,2 @@
+Predict y given many x's, but actually max(y,0); if y is price, it should be non-negative.
+Recursively do that.
